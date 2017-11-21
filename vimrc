@@ -24,3 +24,4 @@ map <D-A-LEFT> <C-w>h
 map <D-A-DOWN> <C-w><C-w>
 map <D-A-UP> <C-w>W
 set laststatus=2
+hi Normal ctermbg=none
